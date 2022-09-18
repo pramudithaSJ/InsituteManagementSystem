@@ -2,7 +2,7 @@ Please go under edit and edit this file as needed for your project
 
 # Project Name - ONLINE INSTITUTE MANAGEMENT SYSTEM
 # Batch - 2.1
-### Group Leader - IT20620202 - Jayawardhana D.M.P.S (IT20620202)
+### Group Leader - IT20620202 - Jayawardhana D.M.P.S (pramudithaSJ)
 ### Member 2 - IT20629458 - Shehara R.D.A. (akishehara)
 ### Member 3 - IT20024772 - Rupasinghe J.D (it20024772)
 ### Member 4 - IT20192150 - H.H.S.Fernando(shamin2021)
